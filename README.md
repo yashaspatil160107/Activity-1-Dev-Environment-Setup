@@ -7,3 +7,8 @@
 - Fix: removed `C:\MinGW\bin` from the System PATH and restarted VS Code.
 - Problem: linker error "cannot open output file hello.exe: Permission denied". Fix: deleted the old hello.exe and recompiled.
 - Verified with `gcc --version` and ran hello.c successfully.
+## Collaboration Log
+
+- **Partner:** Rohith (GitHub: rohithpatel)
+- **What we built:** A `greet()` function in `hello.c` that greets a person by name, written together over Live Share.
+- **What I learned:** Live Share shows each person's cursor in real time, and GitLens blame shows exactly which commit added each line.
